@@ -2,13 +2,16 @@
 
 > **Read-only archive of released versions of clarkwinkelmann/flarum-ext-anonymous-posting.** Not for installation: use [Packagist](https://packagist.org/packages/clarkwinkelmann/flarum-ext-anonymous-posting) or the [upstream repository](https://github.com/clarkwinkelmann/flarum-ext-anonymous-posting).
 
-**0** versions archived · Latest: [`1.1.1`](https://github.com/flarchive/clarkwinkelmann-flarum-ext-anonymous-posting/tree/archive/v1.1.1) · License: `MIT` · Flarum: `^1.2`
+**4** versions archived · Latest: [`1.1.1`](https://github.com/flarchive/clarkwinkelmann-flarum-ext-anonymous-posting/tree/archive/v1.1.1) · License: `MIT` · Flarum: `^1.2`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `1.0.0` | 2022-07-04 | `^1.2` | [Browse](https://github.com/flarchive/clarkwinkelmann-flarum-ext-anonymous-posting/tree/archive/v1.0.0) |
+| `1.0.1` | 2022-08-25 | `^1.2` | [Browse](https://github.com/flarchive/clarkwinkelmann-flarum-ext-anonymous-posting/tree/archive/v1.0.1) |
+| `1.1.0` | 2023-02-11 | `^1.2` | [Browse](https://github.com/flarchive/clarkwinkelmann-flarum-ext-anonymous-posting/tree/archive/v1.1.0) |
+| `1.1.1` | 2023-03-09 | `^1.2` | [Browse](https://github.com/flarchive/clarkwinkelmann-flarum-ext-anonymous-posting/tree/archive/v1.1.1) |
 
 Catalog entry: [packages/clarkwinkelmann-flarum-ext-anonymous-posting.json](https://github.com/flarchive/archive-index/blob/main/packages/clarkwinkelmann-flarum-ext-anonymous-posting.json)
 
